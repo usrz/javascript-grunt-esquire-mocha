@@ -1,6 +1,6 @@
 {
   "name": "grunt-esquire-mocha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JsDoc template written with NG",
   "repository": {
     "type": "git",
@@ -8,6 +8,6 @@
   },
   "peerDependencies": {
     "grunt": "^0.4.5",
-    "esquire": "^1.0.0"
+    "esquire": "^1.0.1"
   }
 }
